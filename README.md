@@ -2,11 +2,11 @@
 <table>
 <tr>
 <td>
-  Movie App built in React JS and Material UI.
+  Movie Library Web Application 
 </td>
 </tr>
 </table>
 
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
 
-![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
+
+![Screenshot 2024-06-03 150052](https://github.com/MNarayan04/Movie-Library/assets/100512104/dc031d37-6716-4368-904f-50c4dae2caa8)
